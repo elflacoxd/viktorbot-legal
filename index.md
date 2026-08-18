@@ -1,0 +1,2 @@
+- [Política de Privacidad](./privacy.html)
+- [Términos de Servicio](./terms.html)
